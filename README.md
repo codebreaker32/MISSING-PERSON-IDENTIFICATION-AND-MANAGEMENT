@@ -54,7 +54,7 @@ Follow these steps to run the project locally
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/codebreaker32/SIH1790_ERROR_404_CHANGE_FOUND.git
+   git clone https://github.com/codebreaker32/MISSING-PERSON-IDENTIFICATION-AND-MANAGEMENT
    cd REPO_DIRECTORY
    ```
 
@@ -63,7 +63,7 @@ Follow these steps to run the project locally
 This project is a Django-based backend for managing diabetes patient data, providing user authentication, patient data handling, and integration with machine learning models for outcome predictions and recommendations.
 ### 1. Clone the repository
  ```bash
-git clone <https://github.com/codebreaker32/SIH1790_ERROR_404_CHANGE_FOUND.git>
+git clone https://github.com/codebreaker32/MISSING-PERSON-IDENTIFICATION-AND-MANAGEMENT
 ```
 ### 2. Create and activate a virtual environment
  ```bash
@@ -98,7 +98,7 @@ python manage.py runserver
 
 ### 1. Clone the repository 
 ```bash
-git clone <https://github.com/codebreaker32/SIH1790_ERROR_404_CHANGE_FOUND.git>
+git clone https://github.com/codebreaker32/MISSING-PERSON-IDENTIFICATION-AND-MANAGEMENT
 
 ```
 ### 2. Install the dependencies 
